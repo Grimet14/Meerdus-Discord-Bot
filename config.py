@@ -1,5 +1,5 @@
 # Set to your token (str)
-token = "OTM5NjgwMTcyODAwNjEwMzE0.Yf8XWw.YOBCyU2JhGMXUvZh_R_TKFLJPMw"
+token = "your_token_here"
 
 # Set to your guilds id (int)
-guild_id = 892880046631575623
+guild_id = your_servers_guild_id_here
