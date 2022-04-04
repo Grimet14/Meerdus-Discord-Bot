@@ -1,0 +1,3 @@
+discord
+aiohttp
+discord-py-slash-command
